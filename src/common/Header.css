@@ -1,0 +1,9 @@
+.header {
+  background: grey;
+  color: #183d56;
+  align-self: center;
+}
+.weight {
+  list-style-type: none;
+  font-weight: bold;
+}

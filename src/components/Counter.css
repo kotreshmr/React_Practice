@@ -1,0 +1,23 @@
+body {
+  background: #183666;
+  color: #fff;
+}
+.button {
+  margin: 30px 0px 10px;
+}
+.increment {
+  margin-bottom: 10px;
+}
+.radius {
+  width: 100px;
+  padding: 6px;
+  border-radius: 20px;
+  border: 0px;
+  margin-right: 20px;
+}
+input {
+  padding: 6px;
+  border-radius: 10px;
+  border: 0px;
+  margin-left: 10px;
+}
